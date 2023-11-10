@@ -26,7 +26,7 @@ I am a software engineer with expertise in designing and delivering complex soft
 
 ### Senior Software Engineer / Solutions Architect
 **Atea Global Services Ltd.**  
-*Jan 2021 - Present (2 years 10 months)*  
+*Jan 2021 - May 2023 (2 years 5 months)*  
 - **Leading the design and implementation** of complex systems with a focus on microservices architecture and SOA architecture.
 - **Ensuring successful project outcomes** and client satisfaction by providing technical guidance and mentoring to developers.
 - **Development:** Implemented high-quality, robust code and components as part of the software development lifecycle, adhering to industry best practices.
