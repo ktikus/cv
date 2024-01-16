@@ -168,13 +168,21 @@ M.Sc., Applied Mathematics / Computer Science
 - Git
 - GitHub Workflows/Actions
 - Azure DevOps
-- Bicep
-- Terraform
-- ARM Templates
 - GitLab
 - TeamCity
 - Octopus Deploy
 - CakeBuild
+
+**Containerization:**
+- Docker
+- Kubernetes
+- Helm
+- Azure Container Registry
+
+**Infrastructure as Code (IaC):**
+- Bicep
+- Terraform
+- ARM Templates
 
 **Cloud Services(PaaS/SaaS/IaaS):**
 - Azure App Services
@@ -182,6 +190,7 @@ M.Sc., Applied Mathematics / Computer Science
 - Azure Service Bus
 - Azure Key Vault
 - Azure Kubernetes Services
+- Azure Container Registry
 - Azure SignalR
 - Virtual Machines/Scale Sets
 - Redis
