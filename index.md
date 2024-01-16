@@ -41,11 +41,11 @@ I am a software engineer with expertise in designing and delivering complex soft
 **HomeTrust Bank**  
 *Dec 2020 - Jul 2021 (8 months)*  
 Responsibilities:
-- **System Analysis:** Conducted thorough evaluations of existing systems to identify and articulate critical issues, operational needs, and integration challenges.
-- **Solution Design:** Crafted detailed solution architectures and plans to meet complex business requirements, ensuring scalability and performance.
+- **System analysis:** Conducted thorough evaluations of existing systems to identify and articulate critical issues, operational needs, and integration challenges.
+- **Solution design:** Crafted detailed solution architectures and plans to meet complex business requirements, ensuring scalability and performance.
 - **Estimation:** Provided accurate project time and cost estimates, utilizing a deep understanding of resource allocation and project scope.
 - **Development:** Implemented high-quality, robust code and components as part of the software development lifecycle, adhering to industry best practices.
-- **Code Review:** Led rigorous code review sessions to maintain high standards of code quality, ensuring adherence to coding standards and practices.
+- **Code review:** Led rigorous code review sessions to maintain high standards of code quality, ensuring adherence to coding standards and practices.
 - **DevOps:** Streamlined deployment processes and maintained operations by implementing CI/CD pipelines, automating workflows, and ensuring infrastructure reliability.
 
 **Tools & Technologies:** C#, ASP.NET Web API, App Services, API Management, Azure Data Factory, Azure Functions, Azure Service Bus, Azure Key Vault, Azure SQL, CosmosDb, etc., Git, Azure DevOps.
@@ -84,8 +84,7 @@ Responsibilities:
 - **Solution design:** Worked on architectural solutions that addressed critical business requirements while ensuring scalability and future growth.
 - **Communication with clients:** Acted as the primary technical point of contact, articulating complex technical concepts and project progress to stakeholders and aligning project objectives with client needs.
 - **Estimation:** Provided accurate estimations for project deliverables, resource allocation, and timelines, contributing to the overall project planning and scheduling.
-- **Team leading:** Directed a team of software engineers, fostering a collaborative environment and ensuring the alignment of the team's efforts with project goals.
-- **Organisation and supervising of the development process:** Led and coordinated development activities, ensuring adherence to best practices and maintaining project momentum.
+- **Team leading:** Directed a team of software engineers, fostering a collaborative environment and ensuring the alignment of the team's efforts with project goals. Organization and supervising of the development process. Led and coordinated development activities, ensuring adherence to best practices and maintaining project momentum.
 - **Development:** Delivering high-quality software components and systems that met industry standards.
 - **Code review:** Oversaw code reviews to enforce coding standards and practices, promoting code quality and maintainability.
 
@@ -100,8 +99,8 @@ Responsibilities:
 - **Solution design:** Developed and refined system architectures, ensuring robustness and adaptability to meet evolving business needs.
 - **System analysis:** Worked closely with stakeholders to define and clarify project requirements, ensuring a shared understanding and accurate implementation.
 - **Communication with clients:** Ensuring clear communication of project objectives, deliverables, and progress.
-- **Team leading:** Directed a team of software engineers, fostering a collaborative environment and ensuring the alignment of the team's efforts with project goals.
 - **Estimation:** Provided comprehensive estimations of project timelines, resources, and budgets to ensure effective project planning and management.
+- **Team leading:** Directed a team of software engineers, fostering a collaborative environment and ensuring the alignment of the team's efforts with project goals.
 - **Development:** Led the software development lifecycle, from conception to deployment, ensuring the delivery of high-quality software solutions.
 - **Code review:** Implemented stringent code review processes to maintain high standards of code quality and to foster a culture of continuous improvement.
 
@@ -111,11 +110,11 @@ Responsibilities:
 **C.T.Co**  
 *Jun 2014 - Dec 2015 (1 year 7 months)*
 Responsibilities:
-- **Development:** Implemented software solutions using MS Visual C# .NET and ASP.NET Web API.
+- **Architectural design:** Contributed to the creation of scalable architectures using Windows Azure.
+- **Requirements clarification:** Clarified project requirements, employing TypeScript and Knockoutjs for front-end development.
 - **Estimation:** Provided project estimations incorporating knowledge of Windows Azure and MongoDB.
+- **Development:** Implemented software solutions using MS Visual C# .NET and ASP.NET Web API.
 - **Code Review:** Ensured code quality with NUnit, Unity IoC, and adherence to best practices.
-- **Architectural Design:** Contributed to the creation of scalable architectures using Windows Azure.
-- **Requirements Clarification:** Clarified project requirements, employing TypeScript and Knockoutjs for front-end development.
 
 **Tools & Technologies:** MS Visual C# .NET, ASP.NET Web API, Windows Azure, MongoDB, NUnit, Unity IoC
 
@@ -123,12 +122,12 @@ Responsibilities:
 **Accenture**  
 *Nov 2012 - Jun 2014 (1 year 8 months)*
 Responsibilities:
+- **Architectural design** of software solutions to meet business needs.
+- **Clarification of technical requirements** to ensure accurate implementation.
 - **Estimation:** of project timelines and resource requirements.
 - **Task assignment** to ensure efficient workflow and project progress.
 - **Coaching and mentoring** junior developers to enhance team skills and performance.
 - **Conducting code reviews** to maintain high-quality standards.
-- **Architectural design** of software solutions to meet business needs.
-- **Clarification of technical requirements** to ensure accurate implementation.
 
 **Tools & Technologies:** MS Visual C# .NET, ASP.NET MVC, MS SQL Server 2008, Windows Azure Mobile Services, Windows 8 Apps, Windows Mobile 6.5
 
