@@ -15,24 +15,25 @@ I am a software engineer with expertise in designing and delivering complex soft
 
 ### Senior Software Engineer / Solutions Architect
 **Altudo**  
-*May 2023 - Present (6 months)*  
-- **Led Microservices architecture-oriented solution design and development**, creating architectural blueprints.
+*May 2023 - Present (6 months)*
+- **System analysis:** Conducting technical assessments of client systems to identify areas for improvement and recommending innovative solutions to meet client needs.
+- **Solution design:** Worked on microservices architecture-oriented solution design and development, creating architectural blueprints.
+- **Team leading:** Directed a team of software engineers, fostering a collaborative environment and ensuring the alignment of the team's efforts with project goals.
 - **Development:** Implemented high-quality, robust code and components as part of the software development lifecycle, adhering to industry best practices.
-- **Managed CI/CD design and implementation**, including Infrastructure as Code (IaC).
-- **Ensured code quality**, troubleshooting, and optimized performance.
-- **Collaborated with clients** to gather technical requirements and prioritize features.
+- **DevOps:** Managed CI/CD design and implementation, including Infrastructure as Code (IaC).
 
 **Tools & Technologies:** C#, ASP.NET Web API, Azure App Services, API Management, Azure Data Factory, Azure Functions, Azure Service Bus, Azure Key Vault, Azure SQL, CosmosDB, Git, OctopusDeploy, Azure DevOps, Bicep, GitHub Workflows/Actions
 
 ### Senior Software Engineer / Solutions Architect
 **Atea Global Services Ltd.**  
 *Jan 2021 - May 2023 (2 years 5 months)*  
-- **Leading the design and implementation** of complex systems with a focus on microservices architecture and SOA architecture.
-- **Ensuring successful project outcomes** and client satisfaction by providing technical guidance and mentoring to developers.
+- **System analysis:** Conducting technical assessments of client systems to identify areas for improvement and recommending innovative solutions to meet client needs.
+- **Solution design:** Leading the design and implementation of complex systems with a focus on microservices architecture and SOA architecture.
+- **Technical management:** Ensuring successful project outcomes and client satisfaction by providing technical guidance and mentoring to developers.
+- **Team leading:** Directed a team of software engineers, fostering a collaborative environment and ensuring the alignment of the team's efforts with project goals.
 - **Development:** Implemented high-quality, robust code and components as part of the software development lifecycle, adhering to industry best practices.
-- **DevOps:** Fostered collaboration between development and operations teams, implementing automation tools to streamline the deployment pipeline.
-- **Conducting technical assessments** of client systems to identify areas for improvement and recommending innovative solutions to meet client needs.
-- **Staying up-to-date with emerging trends and technologies** in the industry to provide the best possible solutions to clients.
+- **Code Review:** Led rigorous code review sessions to maintain high standards of code quality, ensuring adherence to coding standards and practices.
+- **DevOps:** Managing collaboration between development and operations teams, implementing automation tools to streamline the deployment pipeline.
 
 **Tools & Technologies:** C#, ASP.NET Web API, Azure App Services, API Management, Azure Data Factory, Azure Functions, Azure Service Bus, Azure Key Vault, Azure SQL, CosmosDB, Git, OctopusDeploy, Azure DevOps, Bicep, Terraform, ARM
 
@@ -54,11 +55,11 @@ Responsibilities:
 *Jan 2019 - Dec 2020 (2 years)*  
 Responsibilities:
 - **Leading Architecture and System Analysis Team:** Directed a team of architects and analysts in the research and development of technological solutions aligned with business goals.
-- **System Analysis:** Performed comprehensive system evaluations to determine optimal architecture, identify system requirements, and assess technical feasibility.
-- **Solution Design:** Developed high-level designs for complex software systems, ensuring they support both current and future business needs.
+- **System analysis:** Performed comprehensive system evaluations to determine optimal architecture, identify system requirements, and assess technical feasibility.
+- **Solution design:** Developed high-level designs for complex software systems, ensuring they support both current and future business needs.
 - **Estimation:** Accurately predicted project timelines and resource needs by analyzing work scope and potential roadblocks.
 - **Development:** Executed and oversaw the development process, ensuring the creation of efficient and scalable software solutions.
-- **Code Review:** Maintained code integrity and contributed to the continuous improvement of the codebase through meticulous review practices.
+- **Code review:** Maintained code integrity and contributed to the continuous improvement of the codebase through meticulous review practices.
 - **DevOps:** Fostered collaboration between development and operations teams, implementing automation tools to streamline the deployment pipeline.
 
 **Tools & Technologies:** .Net Web API, C#, .Net Core,  MS SQL Server, Microservices architectures, git, TeamCity, Octopus Deploy, CakeBuild, PowerShell, DSC
@@ -67,11 +68,11 @@ Responsibilities:
 **Byjuno AG**  
 *Feb 2019 - Nov 2019 (10 months)*  
 Responsibilities:
-- **Solution Assessment:** Conducted in-depth analyses of existing solutions, identifying areas for enhancement, and ensuring alignment with business objectives.
-- **Design of Improvements Roadmap:** Devised strategic roadmaps for system improvements, outlining step-by-step plans for future development initiatives.
+- **Solution assessment:** Conducted in-depth analyses of existing solutions, identifying areas for enhancement, and ensuring alignment with business objectives.
+- **Refactoring planning:** Creation of refactoring roadmap for system improvements, outlining step-by-step plans for future development initiatives.
 - **Development:** Implemented high-quality, robust code and components as part of the software development lifecycle, adhering to industry best practices.
-- **CI/CD Design and Implementation Guidance:** Provided expert guidance on the design and implementation of Continuous Integration/Continuous Deployment (CI/CD) processes, enhancing code quality and deployment efficiency.
-- **Migration Between Datacenters Framework Design:** Engineered robust framework designs for the seamless migration of services between datacenters, ensuring minimal downtime and service disruption.
+- **DevOps:** CI/CD design and implementation guidance. Provided expert guidance on the design and implementation of Continuous Integration/Continuous Deployment (CI/CD) processes, enhancing code quality and deployment efficiency.
+- **Migration between data centers:** Engineered robust framework designs for the seamless migration of applications between data centers, ensuring minimal downtime and service disruption.
 
 **Tools & Technologies:** .Net Web API, C#, .Net Core,  MS SQL Server, Microservices architectures, git, TeamCity, Octopus Deploy, CakeBuild, PowerShell, DSC
 
@@ -79,15 +80,14 @@ Responsibilities:
 **Accenture**  
 *Dec 2017 - Jan 2019 (1 year 2 months)*  
 Responsibilities:
-- **Communication with Clients:** Acted as the primary technical point of contact, articulating complex technical concepts and project progress to stakeholders and aligning project objectives with client needs.
-- **Architectural Design:** Crafted comprehensive architectural solutions that addressed critical business requirements while ensuring scalability and future growth.
-- **System Analysis:** Assessed and diagnosed system architectures to identify potential improvements and integrate new technologies effectively.
-- **Requirements Clarification:** Collaborated with clients to refine and translate business needs into detailed technical requirements, ensuring a mutual understanding and setting projects up for success.
+- **System analysis:** Assessed existing system architectures to identify potential improvements and integrate new technologies effectively.
+- **Solution design:** Worked on architectural solutions that addressed critical business requirements while ensuring scalability and future growth.
+- **Communication with clients:** Acted as the primary technical point of contact, articulating complex technical concepts and project progress to stakeholders and aligning project objectives with client needs.
 - **Estimation:** Provided accurate estimations for project deliverables, resource allocation, and timelines, contributing to the overall project planning and scheduling.
-- **Organisation and Supervising of the Development Process:** Led and coordinated development activities, ensuring adherence to best practices and maintaining project momentum.
-- **Development:** Spearheaded the coding efforts, delivering high-quality software components and systems that met rigorous standards.
-- **Code Review:** Oversaw code reviews to enforce coding standards and practices, promoting code quality and maintainability.
-- **Tech Notes for Developer Teams:** Created detailed technical documentation to guide and assist developer teams in understanding project architecture and coding standards.
+- **Team leading:** Directed a team of software engineers, fostering a collaborative environment and ensuring the alignment of the team's efforts with project goals.
+- **Organisation and supervising of the development process:** Led and coordinated development activities, ensuring adherence to best practices and maintaining project momentum.
+- **Development:** Delivering high-quality software components and systems that met industry standards.
+- **Code review:** Oversaw code reviews to enforce coding standards and practices, promoting code quality and maintainability.
 
 **Tools & Technologies:** C#, ASP.NET Web API, ARM templates, App Services, Cloud Services, API Management, git, TeamCity, OctopusDeploy
 
@@ -96,13 +96,14 @@ Responsibilities:
 *Jan 2016 - Dec 2017 (2 years)*  
 *Team Lead for Volvo Cars Corporation*
 Responsibilities:
-- **Team Leading:** Directed a team of software engineers, fostering a collaborative environment, and ensuring the alignment of the team's efforts with project goals.
-- **Communication with Clients:** Served as a liaison between the technical team and clients, ensuring clear communication of project objectives, deliverables, and progress.
-- **Architectural Design:** Developed and refined system architectures, ensuring robustness and adaptability to meet evolving business needs.
-- **Requirements Clarification:** Worked closely with clients and stakeholders to define and clarify project requirements, ensuring a shared understanding and accurate implementation.
+
+- **Solution design:** Developed and refined system architectures, ensuring robustness and adaptability to meet evolving business needs.
+- **System analysis:** Worked closely with stakeholders to define and clarify project requirements, ensuring a shared understanding and accurate implementation.
+- **Communication with clients:** Ensuring clear communication of project objectives, deliverables, and progress.
+- **Team leading:** Directed a team of software engineers, fostering a collaborative environment and ensuring the alignment of the team's efforts with project goals.
 - **Estimation:** Provided comprehensive estimations of project timelines, resources, and budgets to ensure effective project planning and management.
 - **Development:** Led the software development lifecycle, from conception to deployment, ensuring the delivery of high-quality software solutions.
-- **Code Review:** Implemented stringent code review processes to maintain high standards of code quality and to foster a culture of continuous improvement.
+- **Code review:** Implemented stringent code review processes to maintain high standards of code quality and to foster a culture of continuous improvement.
 
 **Tools & Technologies:** C#, ASP.NET Web API, Microsoft Azure suite including ARM templates, App Services, Cloud Services, API Management, git, TeamCity, OctopusDeploy
 
