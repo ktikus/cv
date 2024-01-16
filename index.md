@@ -1,4 +1,4 @@
-# Constantine (Kostiantyn) Tikus 
+#  Kostiantyn (Constantine) Tikus 
 
 **Senior Software Engineer / Solutions Architect**
 
