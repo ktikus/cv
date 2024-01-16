@@ -160,7 +160,7 @@ M.Sc., Applied Mathematics / Computer Science
 **Databases:**
 - Microsoft SQL Server
 - Azure SQL
-- Postgres
+- PostgreSQL
 - CosmosDB
 - MongoDB
 
