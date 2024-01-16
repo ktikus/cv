@@ -181,8 +181,12 @@ M.Sc., Applied Mathematics / Computer Science
 
 **Infrastructure as Code (IaC):**
 - Bicep
-- Terraform
 - ARM Templates
+- Terraform
+
+**Web Servers:**
+- IIS
+- Nginx
 
 **Cloud Services(PaaS/SaaS/IaaS):**
 - Azure App Services
