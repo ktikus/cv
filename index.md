@@ -137,7 +137,7 @@ M.Sc., Applied Mathematics / Computer Science
 *Sep 2002 - Jul 2007*
 
 ## Licenses & Certifications
-- Development, design, modern architecture of programming systems based on object-oriented languages. - SoftServe University
+- Development, design, and modern architecture of programming systems based on object-oriented languages. - SoftServe University
 - Technology Architect Associate Accenture Certification - Accenture
 - Exam 483: Programming in C# - Microsoft
 - Exam 480: Programming in HTML5 with JavaScript and CSS3 - Microsoft
@@ -160,34 +160,44 @@ M.Sc., Applied Mathematics / Computer Science
 **Databases:**
 - Microsoft SQL Server
 - Azure SQL
+- Postgres
 - CosmosDB
 - MongoDB
 
 **DevOps & CI/CD:**
 - Git
-- TeamCity
-- Octopus Deploy
 - GitHub Workflows/Actions
 - Azure DevOps
 - Bicep
 - Terraform
 - ARM Templates
+- GitLab
+- TeamCity
+- Octopus Deploy
 - CakeBuild
 
-**Cloud Services:**
+**Cloud Services(PaaS/SaaS/IaaS):**
 - Azure App Services
 - Azure Functions
 - Azure Service Bus
 - Azure Key Vault
-- Azure Kubenetes Services
+- Azure Kubernetes Services
 - Azure SignalR
+- Virtual Machines/Scale Sets
+- Redis
+- Azure Virtual Network
+- Azure API Management
+- Azure Front Door
+- Azure Application Gateway
+- Azure Load Balancer
+- Azure Traffic Manager
 
-**Testing:**
+**Test tools:**
 - xUnit
 - NUnit
 - moq
 
-**Dependency Management:**
+**IoC containers:**
 - Unity IoC
 - Structure Map IoC
 
@@ -196,4 +206,5 @@ M.Sc., Applied Mathematics / Computer Science
 - SOA architecture
 - Technical management
 - Software development
+- DevOps
 - Infrastructure as Code (IaC)
