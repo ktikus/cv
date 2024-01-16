@@ -9,7 +9,7 @@
 ## Summary
 I am a software engineer with expertise in designing and delivering complex software solutions for a range of clients. With 15 years of experience in development and architecture, I have led the design and implementation of robust systems that meet business requirements and drive growth. I have a proven track record of collaborating with cross-functional teams and delivering projects on time and within budget. I am passionate about leveraging emerging technologies to solve complex problems.
 
-**Skills:** Azure, .NET, .NET Core, C#, DevOps, CI/CD, Technical Management
+**Core focus:** Azure, .NET, .NET Core, C#, Software Development, Software Architecture, Technical Management, DevOps, CI/CD,
 
 ## Experience
 
