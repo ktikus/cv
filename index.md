@@ -157,6 +157,17 @@ M.Sc., Applied Mathematics / Computer Science
 - ASP.NET Web API
 - ASP.NET MVC
 
+ **Application Programming Interfaces**
+ - REST (OpenAPI, etc.)
+ - RPC (WCF, gRPC etc.)
+ - GraphQL
+ - SOAP
+ - WebSockets
+
+ **Message brokers**
+ - Azure Service Bus
+ - RabbitMQ 
+
 **Databases:**
 - Microsoft SQL Server
 - Azure SQL
