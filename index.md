@@ -14,7 +14,7 @@ I am a software engineer with expertise in designing and delivering complex soft
 ## Experience
 
 ### Senior Software Engineer / Solutions Architect
-**Altudo**  
+**Zont**  
 *May 2023 - Present (6 months)*
 - **System analysis:** Conducting technical assessments of client systems to identify areas for improvement and recommending innovative solutions to meet client needs.
 - **Solution design:** Worked on microservices architecture-oriented solution design and development, creating architectural blueprints.
@@ -22,7 +22,7 @@ I am a software engineer with expertise in designing and delivering complex soft
 - **Development:** Implemented high-quality, robust code and components as part of the software development lifecycle, adhering to industry best practices.
 - **DevOps:** Managed CI/CD design and implementation, including Infrastructure as Code (IaC).
 
-**Tools & Technologies:** C#, ASP.NET Web API, Azure App Services, API Management, Azure Data Factory, Azure Functions, Azure Service Bus, Azure Key Vault, Azure SQL, CosmosDB, Git, OctopusDeploy, Azure DevOps, Bicep, GitHub Workflows/Actions
+**Tools & Technologies:** C#, ASP.NET Web API, Azure Kubernetes Services, Azure App Services, API Management, Azure Data Factory, Azure Functions, Azure Service Bus, Azure Key Vault, Azure SQL, CosmosDB, Git, OctopusDeploy, Azure DevOps, Bicep, GitHub Workflows/Actions
 
 ### Senior Software Engineer / Solutions Architect
 **Atea Global Services Ltd.**  
@@ -35,7 +35,7 @@ I am a software engineer with expertise in designing and delivering complex soft
 - **Code Review:** Led rigorous code review sessions to maintain high standards of code quality, ensuring adherence to coding standards and practices.
 - **DevOps:** Managing collaboration between development and operations teams, implementing automation tools to streamline the deployment pipeline.
 
-**Tools & Technologies:** C#, ASP.NET Web API, Azure App Services, API Management, Azure Data Factory, Azure Functions, Azure Service Bus, Azure Key Vault, Azure SQL, CosmosDB, Git, OctopusDeploy, Azure DevOps, Bicep, Terraform, ARM
+**Tools & Technologies:** C#, ASP.NET Web API, Azure Kubernetes Services, Azure App Services, API Management, Azure Data Factory, Azure Functions, Azure Service Bus, Azure Key Vault, Azure SQL, CosmosDB, Git, OctopusDeploy, Azure DevOps, Bicep, Terraform, ARM
 
 ### Senior Software Engineer / Consultant
 **HomeTrust Bank**  
