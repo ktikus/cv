@@ -65,7 +65,7 @@ Responsibilities:
 **Tools & Technologies:** .Net Web API, C#, .Net Core,  MS SQL Server, Microservices architectures, git, TeamCity, Octopus Deploy, CakeBuild, PowerShell, DSC
 
 ### Senior Software Engineer / Technology Architect
-**Byjuno AG**  
+**Byjuno AG/Cembra Pay**  
 *Feb 2019 - Nov 2019 (10 months)*  
 Responsibilities:
 - **Solution assessment:** Conducted in-depth analyses of existing solutions, identifying areas for enhancement, and ensuring alignment with business objectives.
