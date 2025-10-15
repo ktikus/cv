@@ -14,7 +14,7 @@ I am a software engineer with expertise in designing and delivering complex soft
 ## Experience
 
 ### Senior Software Engineer / Solutions Architect
-**Zont**
+**Zont** \
 *Cembra Pay*
 *May 2023 - Present*
 - **System analysis:** Conducting technical assessments of client systems to identify areas for improvement and recommending innovative solutions to meet client needs.
