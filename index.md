@@ -5,6 +5,7 @@
 - Email: tikus@muone.eu
 - Phone: +37120595402
 - LinkedIn: [linkedin.com/in/tikus](https://linkedin.com/in/tikus)
+- PDF: [Download CV](cv.pdf)
 
 ## Summary
 I am a software engineer with expertise in designing and delivering complex software solutions for a range of clients. With 18 years of experience in development and architecture, I have led the design and implementation of robust systems that meet business requirements and drive growth. I have a proven track record of collaborating with cross-functional teams and delivering projects on time and within budget. I am passionate about leveraging emerging technologies to solve complex problems.
@@ -146,90 +147,18 @@ M.Sc., Applied Mathematics / Computer Science
 
 ## Skills, Tools & Technologies
 
-**Programming & Scripting:**
-- C#
-- PowerShell
-- bash
-
-**Frameworks & Platforms:**
-- Azure Cloud
-- .NET
-- .NET Core
-- ASP.NET Web API
-- ASP.NET MVC
-
- **Application Programming Interfaces:**
- - REST (OpenAPI, etc.)
- - RPC (WCF, gRPC etc.)
- - GraphQL
- - SOAP
- - WebSockets
-
- **Message brokers:**
- - Azure Service Bus
- - RabbitMQ 
-
-**Databases:**
-- Microsoft SQL Server
-- Azure SQL
-- PostgreSQL
-- CosmosDB
-- MongoDB
-
-**DevOps & CI/CD:**
-- Git
-- GitHub Workflows/Actions
-- Azure DevOps
-- GitLab
-- TeamCity
-- Octopus Deploy
-- CakeBuild
-
-**Containerization:**
-- Docker
-- Kubernetes
-- Helm
-- Azure Container Registry
-
-**Infrastructure as Code (IaC):**
-- Bicep
-- ARM Templates
-- Terraform
-
-**Web Servers:**
-- IIS
-- Nginx
-
-**Cloud Services(PaaS/SaaS/IaaS):**
-- Azure App Services
-- Azure Functions
-- Azure Service Bus
-- Azure Key Vault
-- Azure Kubernetes Services
-- Azure Container Registry
-- Azure SignalR
-- Virtual Machines/Scale Sets
-- Redis
-- Azure Virtual Network
-- Azure API Management
-- Azure Front Door
-- Azure Application Gateway
-- Azure Load Balancer
-- Azure Traffic Manager
-
-**Test tools:**
-- xUnit
-- NUnit
-- moq
-
-**IoC containers:**
-- Unity IoC
-- Structure Map IoC
-
-**Other Skills:**
-- Microservices architecture
-- SOA architecture
-- Technical management
-- Software development
-- DevOps
-- Infrastructure as Code (IaC)
+| Category | Technologies |
+|---|---|
+| **Languages** | C#, PowerShell, Bash |
+| **Frameworks** | .NET / .NET Core, ASP.NET Web API, ASP.NET MVC |
+| **Cloud (Azure)** | App Services, Functions, AKS, Service Bus, Key Vault, CosmosDB, API Management, Data Factory, SignalR, Front Door, Application Gateway, Load Balancer, Traffic Manager, VNet, Redis, VM/Scale Sets, Container Registry |
+| **Databases** | SQL Server, Azure SQL, PostgreSQL, CosmosDB, MongoDB |
+| **APIs** | REST (OpenAPI), gRPC, GraphQL, WCF/SOAP, WebSockets |
+| **Messaging** | Azure Service Bus, RabbitMQ |
+| **DevOps & CI/CD** | Git, GitHub Actions, Azure DevOps, GitLab, TeamCity, Octopus Deploy, CakeBuild |
+| **Containers** | Docker, Kubernetes, Helm, Azure Container Registry |
+| **IaC** | Bicep, ARM Templates, Terraform |
+| **Web Servers** | IIS, Nginx |
+| **Testing** | xUnit, NUnit, Moq |
+| **IoC** | Unity IoC, StructureMap |
+| **Architecture** | Microservices, SOA, Technical Management, DevOps, IaC |
